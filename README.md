@@ -5,7 +5,7 @@
 ##
 - ### SOBRE ME :
 
-- 😁 Oie, sou o Eduardo, pode me chamar de du,dudu e edu.
+- 😁 Oi, sou o Eduardo.
 - 🧭 Tenho 17 anos.
 - 📌 Sou de Fortaleza, Ceará.
 - 📖 Cursando Análise e desenvolvimento de sistemas.

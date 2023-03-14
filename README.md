@@ -14,3 +14,4 @@
 
 ---
 <b> 👨‍💻 LINGUAGENS DE PROGRAMAÇÃO </b>
+<i class="devicon-csharp-plain"></i>

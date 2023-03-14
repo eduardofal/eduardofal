@@ -14,4 +14,4 @@
 
 ---
 <b> 👨‍💻 LINGUAGENS DE PROGRAMAÇÃO </b>
-<img <i class="devicon-csharp-plain"></i>>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />

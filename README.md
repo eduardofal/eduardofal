@@ -9,6 +9,7 @@
 ##
 <b> 💻 MINHAS ESPECIALIDADES </b>
 - .NET
+- ASPNET
 - Xamarin
 - Oracle Database
 
